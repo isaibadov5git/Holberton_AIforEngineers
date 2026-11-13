@@ -1,12 +1,3 @@
-# Prompt Use Cases
-
-## Code Quality
-- **Refactoring**
-  - **Goal**: Improve readability and performance  
-  - **Input**: Source function in [LANGUAGE]  
-  - **Output**: Optimized code + explanation  
-
-- **Style Enforcement**
-  - **Goal**: Enforce consistent naming and formatting  
-  - **Input**: Code block  
-  - **Output**: Rewritten code with consistent style  
+git add prompt_patterns_library/prompt_use_cases.md
+git commit -m "Add categorized prompt use cases"
+git push origin main
